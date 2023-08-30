@@ -1,0 +1,72 @@
+{
+<<<<<<< HEAD
+  "name": "movie_app_ver1",
+=======
+  "name": "movie_app",
+>>>>>>> 8f5c4e24d201c110309e0760b4e6d251ff61f2a2
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+    "axios": "^1.5.0",
+    "install": "^0.13.0",
+    "prop-types": "^15.8.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.2.0",
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+>>>>>>> 8f5c4e24d201c110309e0760b4e6d251ff61f2a2
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+<<<<<<< HEAD
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+=======
+    "build": "react-scripts build"
+>>>>>>> 8f5c4e24d201c110309e0760b4e6d251ff61f2a2
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+<<<<<<< HEAD
+  },
+  "homepage": "https://github.com/HongAjin/movie_app",
+  "extends": [
+    "next",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "plugins": [
+    "@typescript-eslint/eslint-plugin"
+  ],
+  "rules": {
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "error"
+=======
+>>>>>>> 8f5c4e24d201c110309e0760b4e6d251ff61f2a2
+  }
+}
